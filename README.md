@@ -22,6 +22,7 @@ Prisma Database Migration & Query Builder
 MySQL Database
 
 Project Step-01 Database Creation
+
 Create new next.js project & integrate prisma with that
 Create necessary database migration
 Complete the database first
